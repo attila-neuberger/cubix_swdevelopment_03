@@ -1,4 +1,8 @@
 cat
 dog
+<<<<<<< HEAD
+=======
+staphylococcus aeruginosa
+>>>>>>> feature/microorganism-update
 parrot
 
